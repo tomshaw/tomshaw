@@ -50,7 +50,10 @@
 
 ---
 
-<img align="left" alt="Tom Shaw's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tomshaw&show_icons=true&hide_border=true" />
+<img 
+  align="left" 
+  alt="Tom Shaw's Github Stats" 
+  src="https://github-readme-stats.vercel.app/api?username=tomshaw&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" />
 
 [website]: https://tomshaw.us
 [twitter]: https://twitter.com/urlrider
