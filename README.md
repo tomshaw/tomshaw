@@ -43,9 +43,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [LinkMate powered by Vue.js Pouch/CouchDb](https://www.youtube.com/watch?v=tkXUzVNl6Rw)
-- [Electron Font Manager Latest Update 2020](https://www.youtube.com/watch?v=mHuS6YGIO6Q)
-- [Electron Font Manager Latest Update 2020](https://www.youtube.com/watch?v=XfwFSGm9FK4)
+- [Font Manager Latest](https://www.youtube.com/watch?v=mHuS6YGIO6Q)
+- [LinkMate is a web page bookmarking application powered by Vue.js and Pouch/CouchDb.](https://www.youtube.com/watch?v=tkXUzVNl6Rw)
+- [Electron Font Manager](https://www.youtube.com/watch?v=XfwFSGm9FK4)
 <!-- YOUTUBE:END -->
 
 ---
