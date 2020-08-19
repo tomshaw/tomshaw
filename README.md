@@ -1,10 +1,16 @@
-## Hello, I'm Tom Shaw I'm a Fullstack Web Developer from Dallas, Texas. 👋
+## Hello, I'm Tom Shaw 
+### I'm a Fullstack Web Developer from Dallas, Texas. 👋
 
-- 🔭 I’m currently working on a subscription based [Electron Font Manager](https://fontmanager.tomshaw.us)!
-- 🌱 My latest work is for Canadian educator, writer [Carol Blacklaws](https://www.carolblacklaws.com)
-- ⚡ Fun fact: I love [Cooking][cookingplaylist] especially [Authentic Mexican Food][cookingmexicanplaylist]
-- 👯 I’m looking to collaborate with other content creators
+<img src="https://raw.githubusercontent.com/tomshaw/tomshaw/master/github-header-image.png" alt="Banner says Tom Shaw - software engineer, designer and system administrator alongside illustration.">
+
+<br />
+<br />
+
+- 🔭 I’m currently working on a subscription based [Electron Font Manager](https://fontmanager.tomshaw.us)
+- 🌱 My latest work is for Canadian historical writer [Carol Blacklaws](https://www.carolblacklaws.com)
 - 🥅 2020 Goals: Contribute more to Open Source projects
+
+<br />
 
 ### Connect with Me:
 
@@ -16,6 +22,8 @@
 <br />
 
 ### Languages and Tools:
+
+<br />
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -67,5 +75,3 @@
 [vueplaylist]: https://www.youtube.com/playlist?list=PL6TZ7O8xxCLyMc2sqnFj74tOECfdUiJLQ
 [webdevplaylist]: https://www.youtube.com/watch?v=2dsnwlnNBzs&list=PL6TZ7O8xxCLwvMl9gJImV6RdC0yxsnK9_
 [webdesplaylist]: https://www.youtube.com/watch?v=C_JKlr4WKKs&list=PL6TZ7O8xxCLzr2L1WbRKY3KD_1agNU6xw
-[cookingplaylist]: https://www.youtube.com/playlist?list=PL6TZ7O8xxCLyTMURom0LFnd98v1vTYbkb
-[cookingmexicanplaylist]: https://www.youtube.com/playlist?list=PL6TZ7O8xxCLwj0IcHTuXWQPToPzURbGuL
