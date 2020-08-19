@@ -1,7 +1,7 @@
 ## Hello, I'm Tom Shaw 
 ### I'm a Fullstack Web Developer from Dallas, Texas. 👋
 
-<img src="https://raw.githubusercontent.com/tomshaw/tomshaw/master/github-header-image.png" alt="Banner says Tom Shaw - software engineer, designer and system administrator alongside illustration.">
+<img src="https://raw.githubusercontent.com/tomshaw/tomshaw/master/github-header-image-cropped.png" alt="Banner says Tom Shaw - software engineer, designer and system administrator alongside illustration.">
 
 <br />
 <br />
