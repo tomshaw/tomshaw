@@ -2,9 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/tomshaw/tomshaw/master/github-header-image.png" alt="banner says Tom Shaw - software engineer, web designer and system administrator alongside illustration">
 
-### I'm a systems engineer from Dallas, Texas. I enjoy utilizing my expertise and programming skills in writing, modifying and integration in the field of software application design and development. I'm passionate about taking on roles that require the extra effort, empowers communities and organizations and ultimately improves peoples lives and creates a brighter future for us all. 👋
+<br/>
 
-<br />
+I'm a systems engineer from Dallas, Texas. I enjoy utilizing my expertise and programming skills in writing, modifying and integration in the field of software application design and development. I'm passionate about taking on roles that require the extra effort, empowers communities and organizations and ultimately improves peoples lives and creates a brighter future for us all. 👋
+
+---
 
 - 🔭 I’m currently working on a subscription based [Electron Font Manager](https://fontmanager.tomshaw.us)
 - 🌱 My latest work is for Canadian historical writer [Carol Blacklaws](https://www.carolblacklaws.com)
