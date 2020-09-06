@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/tomshaw/tomshaw/master/github-header-image.png" alt="banner says Tom Shaw - software engineer, web designer and system administrator alongside illustration">
 
-<br/>
-
 I'm a systems engineer from Dallas, Texas. I enjoy utilizing my expertise and programming skills in writing, modifying and integration in the field of software application design and development. I'm passionate about taking on roles that require the extra effort, empowers communities and organizations and ultimately improves peoples lives and creates a brighter future for us all. 👋
 
 ---
