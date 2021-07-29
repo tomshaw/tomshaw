@@ -21,7 +21,7 @@ I'm a systems engineer from Dallas, Texas. I enjoy utilizing my expertise and pr
 
 ---
 
-<img align="left" alt="Tom Shaw's Github Stats" src="https://github-readme-stats.tomshaw.vercel.app/api?username=tomshaw&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="left" alt="Tom Shaw's Github Stats" src="https://github-readme-stats.tomshaw.vercel.app/api?username=tomshaw" />
 
 [website]: https://tomshaw.us
 [twitter]: https://twitter.com/urlrider
