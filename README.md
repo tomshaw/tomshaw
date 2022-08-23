@@ -13,7 +13,7 @@ I'm a systems engineer from Dallas, Texas. I enjoy utilizing my expertise and pr
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [LinkMate is a web page bookmarking application powered by Vue.js and Pouch/CouchDb.](https://www.youtube.com/watch?v=tkXUzVNl6Rw)
+- [LinkMate web page bookmarking powered by Vue.js and Pouch/CouchDb.](https://www.youtube.com/watch?v=tkXUzVNl6Rw)
 <!-- YOUTUBE:END -->
 
 ---
