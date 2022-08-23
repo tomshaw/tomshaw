@@ -13,9 +13,7 @@ I'm a systems engineer from Dallas, Texas. I enjoy utilizing my expertise and pr
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Font Manager Latest](https://www.youtube.com/watch?v=mHuS6YGIO6Q)
 - [LinkMate is a web page bookmarking application powered by Vue.js and Pouch/CouchDb.](https://www.youtube.com/watch?v=tkXUzVNl6Rw)
-- [Electron Font Manager](https://www.youtube.com/watch?v=XfwFSGm9FK4)
 <!-- YOUTUBE:END -->
 
 ---
