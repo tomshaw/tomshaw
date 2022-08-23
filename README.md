@@ -6,9 +6,8 @@ I'm a systems engineer from Dallas, Texas. I enjoy utilizing my expertise and pr
 
 ---
 
-- 🔭 I’m currently working on a subscription based [Electron Font Manager](https://fontmanager.tomshaw.us)
+- 🔭 I’m author of [Fontastic](https://github.com/tomshaw/fontastic) a free open source font catalog application.
 - 🌱 My latest work is for Canadian historical writer [Carol Blacklaws](https://www.carolblacklaws.com)
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 ---
 
