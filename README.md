@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/urlrider/)
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)](https://stackoverflow.com/users/908382/tom-shaw)
 
-Hello, I'm [@tomshaw](https://github.com/tomshaw) a systems engineer from Dallas, Texas. 👋 I enjoy utilizing my expertise and programming skills in writing, modifying and integration in the field of software application development. I'm passionate about taking on roles that require the extra effort, empowers communities and organizations and ultimately improves peoples lives and creates a brighter future for us all. During my free time I love listening to good music. I have a massive iTunes library. When I'm not focused in front of a screen, I like to work out and spend time outside enjoying mother nature. I'm always looking for new challenges and meeting new people so don't hesitate to say hello.
+Hello, I'm [@tomshaw](https://github.com/tomshaw) a systems engineer from Dallas, Texas. 👋 I enjoy utilizing my expertise and programming skills in writing, modifying and integration in the field of software application development. I'm passionate about taking on roles that require the extra effort, empowers communities and organizations and ultimately improves peoples lives. During my free time I like to work out and spend time outside enjoying mother nature. I'm always looking for new challenges and meeting new people so don't hesitate to say hello.
 
 ## Open Source Projects
 
