@@ -14,23 +14,14 @@ Hello, I'm [@tomshaw](https://github.com/tomshaw) a systems engineer from Dallas
 
 ## Latest Design Works
 
-<<<<<<< HEAD
 - 🌱 My latest work is for Canadian historical writer [Carol Blacklaws](https://www.carolblacklaws.com)
 - 🌱 checkout my Gatsby.js online web design portfolio [Web Design Portfolio](https://www.tomshaw.us)
-=======
-- 🔭 I’m author of [Fontastic](https://github.com/tomshaw/fontastic) a free open source font catalog application.
-- 🌱 My latest work is for Canadian historical writer [Carol Blacklaws](https://www.carolblacklaws.com)
->>>>>>> 4c3c35fbecbca4884b752589bb8bcfb787520af0
 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-<<<<<<< HEAD
 - [LinkMate](https://www.youtube.com/watch?v=XfwFSGm9FK4) LinkMate is the swiss army knife of web page bookmarking powered by PouchDB.
 - [Fontastic](https://www.youtube.com/watch?v=XfwFSGm9FK4) Fontastic is a gorgeous font management application built with Angular & Electron.
-=======
-- [LinkMate web page bookmarking powered by Vue.js and Pouch/CouchDb.](https://www.youtube.com/watch?v=tkXUzVNl6Rw)
->>>>>>> 4c3c35fbecbca4884b752589bb8bcfb787520af0
 <!-- YOUTUBE:END -->
 
 ## Github Statistics
@@ -40,16 +31,4 @@ Hello, I'm [@tomshaw](https://github.com/tomshaw) a systems engineer from Dallas
 [website]: https://tomshaw.us
 [twitter]: https://twitter.com/urlrider
 [youtube]: https://www.youtube.com/channel/UC_HPiOpyAN3nJ4rTFce730w?view_as=subscriber
-<<<<<<< HEAD
 [linkedin]: https://www.linkedin.com/in/urlrider/
-=======
-[linkedin]: https://www.linkedin.com/in/urlrider/
-
-[webdevplaylist]: https://www.youtube.com/watch?v=2dsnwlnNBzs&list=PL6TZ7O8xxCLwvMl9gJImV6RdC0yxsnK9_
-[angularplaylist]: https://www.youtube.com/watch?v=Xr5l7lT--YU&list=PL6TZ7O8xxCLxbbq5NXl3RFkbbypBjEi_o
-[pythonplaylist]: https://www.youtube.com/watch?v=OdIHeg4jj2c&list=PL6TZ7O8xxCLxLfkUB6xwK_9av2fOU-Qam
-[reactplaylist]: https://www.youtube.com/watch?v=OkIDr8QSrLg&list=PL6TZ7O8xxCLw52fEmptTnDrfZJmfM4f-v
-[vueplaylist]: https://www.youtube.com/playlist?list=PL6TZ7O8xxCLyMc2sqnFj74tOECfdUiJLQ
-[webdevplaylist]: https://www.youtube.com/watch?v=2dsnwlnNBzs&list=PL6TZ7O8xxCLwvMl9gJImV6RdC0yxsnK9_
-[webdesplaylist]: https://www.youtube.com/watch?v=C_JKlr4WKKs&list=PL6TZ7O8xxCLzr2L1WbRKY3KD_1agNU6xw
->>>>>>> 4c3c35fbecbca4884b752589bb8bcfb787520af0
