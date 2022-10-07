@@ -20,7 +20,7 @@ Hello, I'm [@tomshaw](https://github.com/tomshaw) a systems engineer from Dallas
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LinkMate](https://www.youtube.com/watch?v=XfwFSGm9FK4) LinkMate is the swiss army knife of web page bookmarking powered by PouchDB.
+- [LinkMate](https://www.youtube.com/watch?v=tkXUzVNl6Rw) LinkMate is the swiss army knife of web page bookmarking powered by PouchDB.
 - [Fontastic](https://www.youtube.com/watch?v=XfwFSGm9FK4) Fontastic is a gorgeous font management application built with Angular & Electron.
 <!-- YOUTUBE:END -->
 
