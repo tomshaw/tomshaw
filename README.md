@@ -17,7 +17,7 @@ Hello, I'm [@tomshaw](https://github.com/tomshaw) a systems engineer from Dallas
 ## Open Source
 
 * 🔥 [TypePress](https://github.com/tomshaw/typepress) A multi platform font management application built using Electron and Angular.
-* 🏠 [Activator](https://github.com/tomshaw/acivator) A GoLang command line font management tool used with TypePress.
+* 🏠 [Activator](https://github.com/tomshaw/activator) A GoLang command line font management tool used with TypePress.
 * 📚 [NFLStats](https://github.com/tomshaw/nflstats) A GoLang command line tool that consumes sportsdata.io NFL statistics.
 
 ## Design Projects
