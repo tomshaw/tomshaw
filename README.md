@@ -8,11 +8,11 @@ Hello, I'm [@tomshaw](https://github.com/tomshaw) a systems engineer from Dallas
 
 ## About Me
 
-* 🎓 I'm currently focused on Go and Rust development
-* 🎧 I absolutely love discovering and sharing new music
-* 📜 I enjoy hours-long conversations about history
-* 🌼 I designed the website for historical writer [Carol Blacklaws](https://www.carolblacklaws.com)
-* 🏠 Checkout my JamStack Gatsby.js online [Web Design Portfolio](https://www.tomshaw.us)
+* 🎓 I'm currently focused on Go and Rust development.
+* 🎧 I absolutely love discovering and sharing new music.
+* 📜 I enjoy hours-long conversations about history.
+* 🌼 I designed the website for historical writer [Carol Blacklaws](https://www.carolblacklaws.com).
+* 🏠 Checkout my JamStack Gatsby.js web [design portfolio](https://www.tomshaw.us).
 
 ## Github Stats
 
