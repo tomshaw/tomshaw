@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/urlrider/)
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)](https://stackoverflow.com/users/908382/tom-shaw)
 
-Hello, I'm [@tomshaw](https://github.com/tomshaw) a systems engineer from Dallas, Texas. I have over 15 years experience working with Object Oriented PHP and JavaScript. I enjoy taking on roles that require the extra effort and ultimately improves peoples lives. I'm always looking for new challenges and meeting new people so don't hesitate to say hello.
+Hello, I'm [Tom Shaw](https://github.com/tomshaw) a systems engineer from Dallas, Texas. I have over 15 years experience working with Object Oriented PHP and JavaScript. I enjoy taking on roles that require the extra effort and ultimately improves peoples lives. I'm always looking for new challenges and meeting new people so don't hesitate to say hello.
 
 ## About Me
 
