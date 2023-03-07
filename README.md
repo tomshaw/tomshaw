@@ -8,37 +8,15 @@ Hello, I'm [@tomshaw](https://github.com/tomshaw) a systems engineer from Dallas
 
 ## About Me
 
-* 👼 I'm a saved Christian
-* 🎓 I'm currently focused on Go, Python and Rust development
+* 🎓 I'm currently focused on Go and Rust development
 * 🎧 I absolutely love discovering and sharing new music
 * 📜 I enjoy hours-long conversations about history
-* 👨‍🍳 I consider myself a culinary artist
-
-## Open Source
-
-* 🔥 [TypePress](https://github.com/tomshaw/typepress) A multi platform font management application built using Electron and Angular.
-* 🏠 [Activator](https://github.com/tomshaw/acivator) A GoLang command line font management tool used with TypePress.
-* 📚 [NFLStats](https://github.com/tomshaw/nflstats) A GoLang command line tool that consumes sportsdata.io NFL statistics.
-
-## Design Projects
-
-* 🌼 Designed the website for Canadian historical writer [Carol Blacklaws](https://www.carolblacklaws.com)
+* 🌼 I designed the website for historical writer [Carol Blacklaws](https://www.carolblacklaws.com)
 * 🏠 Checkout my JamStack Gatsby.js online [Web Design Portfolio](https://www.tomshaw.us)
-
-## YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [LinkMate](https://www.youtube.com/watch?v=tkXUzVNl6Rw) is the swiss army knife of webpage bookmarking powered by PouchDB.
-- [TypePress](https://www.youtube.com/watch?v=XfwFSGm9FK4) is a font management application built with Angular & Electron.
-<!-- YOUTUBE:END -->
-
-## Contact Information
-
-* 💬 [LinkedIn](https://www.linkedin.com/in/urlrider/)
 
 ## Github Stats
 
-<img align="left" alt="Tom Shaw's Github Stats" src="https://github-readme-stats.tomshaw.vercel.app/api?username=tomshaw" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.tomshaw.vercel.app/api?username=tomshaw" />
 
 [HomePage]: https://tomshaw.us
 [YouTube]: https://www.youtube.com/channel/UC_HPiOpyAN3nJ4rTFce730w
