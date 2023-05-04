@@ -12,7 +12,7 @@ Hello, I'm [Tom Shaw](https://github.com/tomshaw) a systems engineer from Dallas
 * 🎧 I absolutely love discovering and sharing new music.
 * 📜 I enjoy hours-long conversations about history.
 * 🌼 I designed the website for historical writer [Carol Blacklaws](https://www.carolblacklaws.com).
-* 🏠 Checkout my JamStack Gatsby.js web [design portfolio](https://www.tomshaw.us).
+* 🏠 Checkout my JamStack Gatsby.js [Portfolio](https://www.tomshaw.us).
 
 ## Github Stats
 
