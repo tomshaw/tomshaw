@@ -1,18 +1,10 @@
-# Tom Shaw
+# Hi 👋, I'm Tom Shaw
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40tomshaw-239a3b.svg)](https://github.com/tomshaw)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/urlrider/)
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)](https://stackoverflow.com/users/908382/tom-shaw)
 
-Hello, I'm [Tom Shaw](https://github.com/tomshaw) a systems engineer from Dallas, Texas. I'm always looking to meet new people so don't hesitate to say hello.
-
-## About Me
-
-* 🎓 I'm currently focused on Go and Rust development.
-* 🎧 I love listening to and sharing new music.
-* 📜 I enjoy hours-long conversations about history.
-* 🌼 I designed the website for historical writer [Carol Blacklaws](https://www.carolblacklaws.com).
-* 🏠 Checkout my JamStack Gatsby.js [Portfolio](https://www.tomshaw.us).
+I'm a systems engineer from Dallas, Texas. I'm always looking to meet new people so don't hesitate to say hello.
 
 ## Github Stats
 
