@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/urlrider/)
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)](https://stackoverflow.com/users/908382/tom-shaw)
 
-I'm a systems engineer from Dallas, Texas. I'm always looking to meet new people so don't hesitate to say hello.
+Hello! I'm a systems engineer from Dallas, Texas.
 
 ## Github Stats
 
