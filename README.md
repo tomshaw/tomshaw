@@ -7,10 +7,10 @@
 I'm a full stack developer with a focus on PHP and JavaScript frameworks. I am passionate about creating clean, scalable code.
 
 * 🎓 I'm currently learning Go and Rust development.
-* 🎧 I absolutely love discovering and sharing new music.
-* 📜 I enjoy hours-long conversations about history.
+* 🎧 I love discovering and sharing new music.
+* 📜 I enjoy long conversations about history.
 * 🌼 Ask me about anything related to PHP and JavaScript.
-* 🏠 Learn more on my JamStack Gatsby.js [Web Design](https://www.tomshaw.us) portfolio.
+* 🏠 Checkout my JamStack Gatsby.js [Web Design](https://www.tomshaw.us) portfolio.
 
 <br>
 
