@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/urlrider/)
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)](https://stackoverflow.com/users/908382/tom-shaw)
 
-I'm a full stack developer with a focus on PHP and JavaScript. I am passionate about creating clean, scalable code.
+I'm a full stack developer with a focus on PHP/CSS/JavaScript. I am passionate about creating clean, scalable code.
 
 * 🎓 I'm currently learning Go and Rust development.
 * 🎧 I love discovering and sharing new music.
