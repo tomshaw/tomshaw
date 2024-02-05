@@ -16,6 +16,11 @@ I am a full stack web developer with a focus on PHP and JavaScript frameworks. I
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.tomshaw.vercel.app/api?username=tomshaw" />
 
+![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 [HomePage]: https://tomshaw.us
 [YouTube]: https://www.youtube.com/channel/UC_HPiOpyAN3nJ4rTFce730w
 [LinkedIn]: https://www.linkedin.com/in/urlrider
