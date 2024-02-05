@@ -4,13 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/urlrider/)
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)](https://stackoverflow.com/users/908382/tom-shaw)
 
-I am a full stack web developer with a focus on PHP and JavaScript frameworks. I am passionate about creating clean, scalable code that exceeds client expectations.
+I'm a full stack developer with a focus on PHP/CSS/JavaScript. I am passionate about creating clean, scalable code.
 
 * 🎓 I'm currently learning Go and Rust development.
-* 🎧 I absolutely love discovering and sharing new music.
-* 📜 I enjoy hours-long conversations about history.
-* 🌼 Ask me about anything related to PHP and JavaScript.
-* 🏠 Learn more on my JamStack Gatsby.js [Web Design](https://www.tomshaw.us) portfolio.
+* 🎧 I love discovering and sharing new music.
+* 📜 I enjoy long conversations about history.
+* 🌼 Ask me about anything about PHP and JavaScript.
+* 🏠 Checkout my JamStack Gatsby.js [Web Design](https://www.tomshaw.us) portfolio.
 
 <br>
 
