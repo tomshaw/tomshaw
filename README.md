@@ -14,6 +14,8 @@ I'm a full stack developer with a focus on PHP/CSS/JavaScript. I am passionate a
 
 <br>
 
+<img align="left" alt="Github Stats" src="https://github-readme-stats.tomshaw.vercel.app/api?username=tomshaw" />
+
 ![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/languages.svg#gh-dark-mode-only)
