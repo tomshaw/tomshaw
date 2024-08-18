@@ -3,7 +3,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40tomshaw-239a3b.svg)][GitHub]
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)][StackOverflow]
 [![Homepage](https://img.shields.io/badge/Homepage-Visit-blue)][HomePage]
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)][YouTube]
 
 I'm a full stack developer with a focus on PHP/CSS/JavaScript. I am passionate about creating clean, scalable code.
 
