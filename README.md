@@ -29,7 +29,7 @@ I'm a full stack developer specializing in agentic coding and workflows where AI
 ### 🌐 Portfolio & Showcase
 
 * 🧭 Check out my **UI/UX web design work** on [CodePen](https://codepen.io/urlrider). 
-* 📌 Browse my [pinned repositories](https://github.com/urlrider?tab=repositories) for inspiration.
+* 📌 Browse my [pinned repositories](https://github.com/tomshaw?tab=repositories) for inspiration.
 * 🧮 I build **data-driven dashboards** and **real-time reporting systems**.
 * 🖼️ Visit my design experiments — minimal UIs meet expressive animations.
 
