@@ -10,7 +10,7 @@ I'm a full stack developer with a focus on PHP/CSS/JavaScript. I am passionate a
 * 🎧 I love discovering and sharing new music.
 * 📜 I enjoy long conversations about history.
 * 🌼 Ask me about anything about PHP and JavaScript.
-* 🏠 Checkout my JamStack Gatsby.js [Web Design][Gatsby] portfolio.
+* ☕ Coffee, code, and clean commits are my daily routine.
 
 <br>
 
