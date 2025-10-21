@@ -4,13 +4,45 @@
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)][StackOverflow]
 [![Homepage](https://img.shields.io/badge/Homepage-Visit-blue)][HomePage]
 
-I'm a full stack developer with a focus on PHP/CSS/JavaScript. I am passionate about creating clean, scalable code.
+I'm a full stack developer specializing in agentic coding and workflows where AI assists in design, architecture, and automation.
 
-* 🎓 I'm currently learning Go and Rust development.
-* 🎧 I love discovering and sharing new music.
-* 📜 I enjoy long conversations about history.
-* 🌼 Ask me about anything about PHP and JavaScript.
+### 💡 Personality & Interests
+
+* 🧠 I love exploring how programming languages shape developer thinking.
+* 🧩 I often build complex tools to automate my everyday workflows.
 * ☕ Coffee, code, and clean commits are my daily routine.
+* 📚 I'm fascinated by how technology intersects with design, and culture.
+* 📜 I enjoy long conversations about history.
+
+---
+
+### ⚙️ Technical & Professional
+
+* 🚀 Currently building agentic SaaS apps with **Laravel + Livewire + TailwindCSS**.
+* 🧰 Experimenting with **AI-assisted development** using **LangChain, Ollama, and local LLMs**.
+* 🧑‍💻 Passionate about **performance optimization** and **clean architecture**.
+* 🧾 Open to collaborations on **open-source PHP/Laravel/Rust/Go libraries**.
+* 📈 Always learning about **systems design, concurrency, and distributed computing**.
+
+---
+
+### 🌐 Portfolio & Showcase
+
+* 🧭 Check out my **UI/UX web design work** on [CodePen](https://codepen.io/urlrider). 
+* 📌 Browse my [pinned repositories](https://github.com/urlrider?tab=repositories) for inspiration.
+* 🧮 I build **data-driven dashboards** and **real-time reporting systems**.
+* 🖼️ Visit my design experiments — minimal UIs meet expressive animations.
+
+---
+
+### 🤝 Community & Collaboration
+
+* 💬 I enjoy mentoring junior developers and pair-programming.
+* 🤝 Always open to contributing and collaborating on open-source tools.
+* 📫 Reach out for **freelance or contract work** — I’m open to interesting projects.
+* 🌍 I believe in open knowledge and contribute to documentation and learning resources.
+
+---
 
 <br>
 
