@@ -46,7 +46,7 @@ I'm a full stack developer specializing in agentic coding and workflows where AI
 
 ### 📚 Laravel Projects
 
-#### ⚡ [Electric Grid](https://github.com/tomshaw/electricgrid)
+#### 🔌 [Electric Grid](https://github.com/tomshaw/electricgrid)
 
 Electric Grid is a Livewire data table package aimed at building rich, configurable grids for Laravel apps. It focuses on sortable and filterable columns, mass actions, exports, and theming, making it a solid choice for projects that need a full-featured table experience.
 
