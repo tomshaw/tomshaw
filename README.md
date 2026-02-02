@@ -78,6 +78,14 @@ ShopCart is a modern Laravel shopping cart library focused on simple item manage
 ![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/languages.svg#gh-light-mode-only)
+```
+ _______ _                 _        _     _               
+(_______) |               | |      | |   | |              
+    _   | |__  _____ ____ | |  _   | |___| | ___  _   _   
+   | |  |  _ \(____ |  _ \| |_/ )  |_____  |/ _ \| | | |  
+   | |  | | | / ___ | | | |  _ (    _____| | |_| | |_| |  
+   |_|  |_| |_\_____|_| |_|_| \_)  (_______|\___/|____/   
+```                                                          
 
 [HomePage]: https://tomshaw.vercel.app
 [Gatsby]: https://tomshaw.us
