@@ -58,9 +58,9 @@ Google API is a Laravel service client for Google OAuth 2.0 and Google APIs. It 
 
 Laravel Dropbox is a Laravel client library for Dropbox API 2.0. It emphasizes configurable token storage, token refresh middleware, and a facade-based interface to make common Dropbox operations (auth, files, sharing, and user data) straightforward.
 
-#### 👤 [Laravel Gravatar](https://github.com/tomshaw/laravel-gravatar)
+#### 📅 [Laravel Calendar Table](https://github.com/tomshaw/laravel-calendar-table)
 
-Laravel Gravatar provides a zero-config Blade directive for generating Gravatar image URLs. It supports named parameters for size, default image styles, rating, and security, making avatar rendering easy in Laravel views.
+Laravel Calendar Table creates and manages a database date dimension table with pre-calculated date attributes for efficient querying and reporting. It includes an Artisan command to populate configurable year ranges, with support for custom seasonal definitions, fiscal year settings, and hemisphere-aware configurations.
 
 #### 🖼️ [Mediable](https://github.com/tomshaw/mediable)
 
