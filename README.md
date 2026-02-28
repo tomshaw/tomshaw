@@ -44,6 +44,30 @@ I'm a full stack developer specializing in agentic coding and workflows where AI
 
 ---
 
+### 📚 Recent Projects
+
+#### 🤖 [Nipper](https://github.com/tomshaw/nipper)
+
+Nipper is a persistent, tool-using, multi-agent AI assistant that runs in your terminal. It combines conversational AI with practical tool integrations for a seamless command-line workflow.
+
+#### 🔍 [Obsidian Vault Semantic Search](https://github.com/tomshaw/obsidian-vault-semantic-search)
+
+A powerful semantic search tool for Obsidian vaults using ChromaDB and sentence transformers. Index your markdown notes and search them using natural language queries with AI-powered semantic similarity.
+
+#### 🎬 [YouSearch](https://github.com/tomshaw/yousearch)
+
+A Next.js app that syncs YouTube playlists to MySQL and provides lightning-fast full-text search across video titles, descriptions, and transcripts.
+
+#### 📧 [Ollama Gmail Labels](https://github.com/tomshaw/ollama-gmail-labels)
+
+Ask questions about email content found under specified Gmail labels using Ollama and local LLMs. A practical example of combining AI with everyday productivity tools.
+
+#### 🧪 [LLM Playground](https://github.com/tomshaw/llm-playground)
+
+A project designed for experimenting with AI and Large Language Models. A sandbox environment for testing prompts, model configurations, and LLM-powered workflows.
+
+---
+
 ### 📚 Laravel Projects
 
 #### 🔌 [Electric Grid](https://github.com/tomshaw/electricgrid)
@@ -72,23 +96,12 @@ ShopCart is a modern Laravel shopping cart library focused on simple item manage
 
 <br>
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.tomshaw.vercel.app/api?username=tomshaw" />
-
 ![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/languages.svg#gh-light-mode-only)
-```
- _______ _                 _        _     _               
-(_______) |               | |      | |   | |              
-    _   | |__  _____ ____ | |  _   | |___| | ___  _   _   
-   | |  |  _ \(____ |  _ \| |_/ )  |_____  |/ _ \| | | |  
-   | |  | | | / ___ | | | |  _ (    _____| | |_| | |_| |  
-   |_|  |_| |_\_____|_| |_|_| \_)  (_______|\___/|____/   
-```                                                          
+![](https://raw.githubusercontent.com/tomshaw/github-stats/master/generated/languages.svg#gh-light-mode-only)                                                      
 
 [HomePage]: https://tomshaw.vercel.app
-[Gatsby]: https://tomshaw.us
 [YouTube]: https://www.youtube.com/channel/UC_HPiOpyAN3nJ4rTFce730w
 [GitHub]: https://github.com/tomshaw
 [StackOverflow]: https://stackoverflow.com/users/908382/tom-shaw
