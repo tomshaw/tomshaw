@@ -68,6 +68,14 @@ A project designed for experimenting with AI and Large Language Models. A sandbo
 
 ---
 
+### 🦀 Rust Projects
+
+#### 🗄️ [Archivista](https://github.com/tomshaw/archivista)
+
+Archivista is a command-line application for quickly backing up your databases. A fast, reliable tool built in Rust for streamlined database backup workflows.
+
+---
+
 ### 📚 Laravel Projects
 
 #### 🔌 [Electric Grid](https://github.com/tomshaw/electricgrid)
