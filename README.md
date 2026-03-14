@@ -4,11 +4,12 @@
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)][StackOverflow]
 [![Homepage](https://img.shields.io/badge/Homepage-Visit-blue)][HomePage]
 
-I design Kick Ass digital products and services.
+I'm a full stack developer passionate about creating clean, scalable code.
 
 * 🎧 I love discovering and sharing new music.
 * 📜 I enjoy long conversations about history.
 * 🧩 I often build tools to automate everyday workflows.
+* 🧑‍💻 Passionate about performance optimization and clean architecture.
 * ☕ Coffee, code, and clean commits are my daily routine.
 
 ### Tech Stack
