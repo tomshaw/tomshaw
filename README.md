@@ -4,7 +4,7 @@
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-tomshaw-F47F24)][StackOverflow]
 [![Homepage](https://img.shields.io/badge/Homepage-Visit-blue)][HomePage]
 
-I enjoy designing Kick Ass digital products and services.
+I design Kick Ass digital products and services.
 
 * 🎧 I love discovering and sharing new music.
 * 📜 I enjoy long conversations about history.
